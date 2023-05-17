@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.main{
+	background-color: lightgray;
+	text-align: center;
+	width: 300px;
+	margin-left:100px;
+}
+img{
+	margin-top:50px;
+	
+}
+.head{
+	font-size:30px;
+}
+.button{
+	background-color: indianred;
+	color:white;
+	font-size:15px;
+	border:2px solid orange;
+	border-radius:20px;
+	height:50px;
+	width:100px;
+	margin-bottom:30px;
+	
+}
